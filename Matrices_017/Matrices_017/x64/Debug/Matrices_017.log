@@ -1,0 +1,3 @@
+﻿  Matrices_017.cpp
+D:\AMERIKE\1ER SEMESTRE\Programacion\Matrices_017\Matrices_017\Matrices_017.cpp(10,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Matrices_017.vcxproj -> D:\AMERIKE\1ER SEMESTRE\Programacion\Matrices_017\x64\Debug\Matrices_017.exe
