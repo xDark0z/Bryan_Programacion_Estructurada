@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathLibrary", "MathLibrary\MathLibrary.vcxproj", "{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{82684875-9D09-4FCF-9962-D987C0D8F915}"
+	ProjectSection(SolutionItems) = preProject
+		MathLibrary.cpp = MathLibrary.cpp
+		MathLibrary.h = MathLibrary.h
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathClient", "MathClient\MathClient.vcxproj", "{25729032-0606-407B-9500-0154B41EEEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Debug|x64.ActiveCfg = Debug|x64
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Debug|x64.Build.0 = Debug|x64
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Debug|x86.Build.0 = Debug|Win32
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Release|x64.ActiveCfg = Release|x64
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Release|x64.Build.0 = Release|x64
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Release|x86.ActiveCfg = Release|Win32
+		{A72B4042-A0A6-4D03-9AB1-2F4FF03ACD7E}.Release|x86.Build.0 = Release|Win32
+		{25729032-0606-407B-9500-0154B41EEEC0}.Debug|x64.ActiveCfg = Debug|x64
+		{25729032-0606-407B-9500-0154B41EEEC0}.Debug|x64.Build.0 = Debug|x64
+		{25729032-0606-407B-9500-0154B41EEEC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{25729032-0606-407B-9500-0154B41EEEC0}.Debug|x86.Build.0 = Debug|Win32
+		{25729032-0606-407B-9500-0154B41EEEC0}.Release|x64.ActiveCfg = Release|x64
+		{25729032-0606-407B-9500-0154B41EEEC0}.Release|x64.Build.0 = Release|x64
+		{25729032-0606-407B-9500-0154B41EEEC0}.Release|x86.ActiveCfg = Release|Win32
+		{25729032-0606-407B-9500-0154B41EEEC0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9644F5-2F30-4BD4-8E5E-817AB32236B6}
+	EndGlobalSection
+EndGlobal
